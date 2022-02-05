@@ -11,7 +11,11 @@ The dataset can be downloaded via https://www.microsoft.com/en-us/research/publi
 Structure of final project:
 
 Task 1: Description of “Geolife Trajectories” dataset
+
 Task 2: Statistic counting
+
 Task 3: Covariance and PCA analysis
+
 Task 4: Unsupervised learning by autoencoder
+
 Task 5: Supervised learning by Random forest, linear regression and MLP
